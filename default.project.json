@@ -1,0 +1,59 @@
+{
+    "name": "Project-13",
+    "tree": {
+        "$className": "DataModel",
+
+        "Lighting": {
+            "$className": "Lighting",
+            "$path": "src/Lighting"
+        },
+
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "$path": "src/ReplicatedStorage",
+
+            "RobloxDialogue": {
+                "$className": "Folder",
+                "$path": "src/ReplicatedStorage/RobloxDialogue" 
+           }
+        },
+
+        "ServerScriptService": {
+            "$className": "Folder",
+            "$path": "src/ServerScriptService"
+        },
+
+        "Workspace": {
+            "$className": "Workspace", 
+            "$properties": {
+                "Gravity": 67.3
+         },
+
+            "Brahmin": {
+                "$className": "Folder"
+         },
+            
+            "NPCs": {
+                "$className": "Folder",
+                "$path": "src/Workspace/NPCs"
+        },
+
+        "StarterGui": {
+            "$className": "Folder"
+            },
+
+            "ScreenGui": {
+                "$path": "src/StarterGui/ScreenGui"
+            }
+        },
+
+        "StarterPlayer": {
+            "$className": "Folder",
+
+            "StarterPlayerScripts": {
+                "$className": "Folder",
+                "$path": "src/StarterPlayer/StarterPlayerScripts"
+             }
+         }
+     }
+  }

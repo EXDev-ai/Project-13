@@ -1,0 +1,1 @@
+local Server = require(game.ReplicatedStorage:WaitForChild("RobloxDialogue"):WaitForChild("Class"):WaitForChild("Server"))

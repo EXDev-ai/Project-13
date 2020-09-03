@@ -1,0 +1,1 @@
+local Client = require(game.ReplicatedStorage:WaitForChild("RobloxDialogue"):WaitForChild("Class"):WaitForChild("Client"))
