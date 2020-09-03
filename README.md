@@ -1,5 +1,5 @@
 # Project-13
-This project aims to recreate Fallout 1 in full glory on the roblox engine. You are free to use and modify the software, but you must include copyright permission and give credit to this software, as written in the GPL.
+This project aims to recreate Fallout 1 in remodified ways, using the Roblox Engine and Lua code. You are free to use and modify the software, but you must include copyright permission and give credit to this software, as written in the GPL.
 
 We are currently progressing at a low to moderate speed, and expect to finish in ~1 year if we continue at this speed rate.
 We hope for you to stop by and take some interest in this project.
