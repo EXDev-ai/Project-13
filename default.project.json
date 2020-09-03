@@ -1,4 +1,4 @@
-{
+{            
     "name": "Project-13",
     "tree": {
         "$className": "DataModel",
@@ -19,7 +19,7 @@
         },
 
         "ServerScriptService": {
-            "$className": "Folder",
+            "$className": "ServerScriptService",
             "$path": "src/ServerScriptService"
         },
 
@@ -36,24 +36,23 @@
             "NPCs": {
                 "$className": "Folder",
                 "$path": "src/Workspace/NPCs"
-        },
+         },
 
         "StarterGui": {
-            "$className": "Folder"
+            "$path": "src/StarterGui"
             },
 
             "ScreenGui": {
                 "$path": "src/StarterGui/ScreenGui"
             }
-        },
+         },
 
-        "StarterPlayer": {
-            "$className": "Folder",
-
-            "StarterPlayerScripts": {
-                "$className": "Folder",
-                "$path": "src/StarterPlayer/StarterPlayerScripts"
+         "StarterPlayer": {
+             "$className": "StarterPlayer"
+             },
+             
+             "StarterPlayerScripts": {
+                 "$className": "Folder"
              }
-         }
-     }
-  }
+          }
+      }
